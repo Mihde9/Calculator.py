@@ -11,7 +11,7 @@ def solveMath():
     global previous
     equation = ""
     if previous == 0:
-        equation = input("Enter your equations:")
+        equation = input("Enter your equation:")
     else:
         equation = input(str(previous))
 
