@@ -1,7 +1,7 @@
 import re
 
 print("My Smart Calculator")
-print("Type 'exit' to exit")
+print("Type 'end' to exit")
 
 previous = 0
 run = True
