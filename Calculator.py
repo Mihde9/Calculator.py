@@ -1,7 +1,7 @@
 import re
 
-print("My AI Calculator")
-print("Type 'end' to exit")
+print("My Smart Calculator")
+print("Type 'exit' to exit")
 
 previous = 0
 run = True
@@ -11,12 +11,12 @@ def solveMath():
     global previous
     equation = ""
     if previous == 0:
-        equation = input("Enter your equation:")
+        equation = input("Enter your equation here:")
     else:
         equation = input(str(previous))
 
     if equation == "end":
-        print("Adios Human!")
+        print("Bye bye")
         run = False
     else:
         equation =re.sub('[a-zA-Z,.:()" "]', '',equation)
