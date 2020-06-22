@@ -8,7 +8,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592784315351">
+      <file name="/Dummy.txt" timestamp="1592786713621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/RPG lite.py" timestamp="1592784685860">
@@ -17,8 +17,53 @@
       <file name="/Python Console" timestamp="1592784714118">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Py-projects/RPG lite.py" timestamp="1592785947205">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/Calculator.py" timestamp="1592786389111">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">am9rZXJhdHRtID0gNzAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">am9rZXJhdHRtID0gNzAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">am9rZXJhdHRoID0gMTIwCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">d2hpbGUgc3VwZXJtYW5ocCA+IDEwOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkYW1hZ2UgPSByYW5kb20ucmFuZHJhbmdlKGpva2VyYXR0bCwgam9rZXJhdHRoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzdXBlcm1hbmhwID0gc3VwZXJtYW5ocCAtIGRhbWFnZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpZiBzdXBlcm1hbmhwIDw9IDEwOgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN1cGVybWFuaHAgPSAxMAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
