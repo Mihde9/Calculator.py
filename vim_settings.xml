@@ -3,24 +3,36 @@
     <editor />
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/Py-projects/RPG/RPG lite.py" timestamp="1592787675862">
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592787318293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/RPG lite.py" timestamp="1592787375047">
+      <file name="/RPG lite.py" timestamp="1592787687543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1592784714118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Py-projects/RPG lite.py" timestamp="1592787228962">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desktop/Py-projects/RPG lite.py" timestamp="1592787716171">
+        <mark key="j" line="15" column="21" />
+        <mark key="[" line="12" column="84" />
+        <mark key="]" line="12" column="84" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Py-projects/RPG/utykl;.py" timestamp="1592787398325">
         <mark key="[" line="0" column="0" />

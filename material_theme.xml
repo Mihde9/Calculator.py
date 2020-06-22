@@ -3,8 +3,8 @@
     <option name="highContrast" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="63a9f1" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-49c81480:172d94fbee5:-8000" />
     <option name="version" value="5.2.0" />
   </component>
