@@ -8,19 +8,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592786713621">
+      <file name="/Dummy.txt" timestamp="1592787318293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/RPG lite.py" timestamp="1592784685860">
+      <file name="/RPG lite.py" timestamp="1592787375047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1592784714118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Py-projects/RPG lite.py" timestamp="1592785947205">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/Py-projects/RPG lite.py" timestamp="1592787228962">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Py-projects/RPG/utykl;.py" timestamp="1592787398325">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/utykl;.py" timestamp="1592787387663">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Calculator.py" timestamp="1592786389111">
         <mark key="[" line="0" column="0" />
@@ -31,34 +37,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">am9rZXJhdHRtID0gNzAK</text>
+        <text encoding="base64">ICBwcmludCgiSm9rZXIgaGl0cyIsIGRhbWFnZSwgIm9mIGRhbWFnZSB0byBTdXBlcm1hbi4gU3VwZXJtYW4ncyBIUCBpcyIsIHN1cGVybWFuaHApCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">am9rZXJhdHRtID0gNzAK</text>
+        <text encoding="base64">ICBwcmludCgiSm9rZXIgaGl0cyIsIGRhbWFnZSwgIm9mIGRhbWFnZSB0byBTdXBlcm1hbi4gU3VwZXJtYW4ncyBIUCBpcyIsIHN1cGVybWFuaHApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiBzdXBlcm1hbmhwID09IDEwOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">am9rZXJhdHRoID0gMTIwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJTdXBlcm1hbiBpcyBkZWFkLCBhbmQgTG9pc2UgTGFuZSBjYW5ub3Qgc2F2ZSBoaW0iKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hpbGUgc3VwZXJtYW5ocCA+IDEwOgo=</text>
+        <text encoding="base64">am9rZXJhdHRtID0gNzAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYW1hZ2UgPSByYW5kb20ucmFuZHJhbmdlKGpva2VyYXR0bCwgam9rZXJhdHRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdXBlcm1hbmhwID0gc3VwZXJtYW5ocCAtIGRhbWFnZQo=</text>
+        <text encoding="base64">am9rZXJhdHRoID0gMTIwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">d2hpbGUgc3VwZXJtYW5ocCA+IDEwOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiBzdXBlcm1hbmhwIDw9IDEwOgo=</text>
+        <text encoding="base64">ICBkYW1hZ2UgPSByYW5kb20ucmFuZHJhbmdlKGpva2VyYXR0bCwgam9rZXJhdHRoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1cGVybWFuaHAgPSAxMAo=</text>
+        <text encoding="base64">ICBzdXBlcm1hbmhwID0gc3VwZXJtYW5ocCAtIGRhbWFnZQo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
