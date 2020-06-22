@@ -1,0 +1,24 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Github.PullRequest.Comments.Reload">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
+  <action id="Github.PullRequest.Details.Reload">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
+  <action id="Github.PullRequest.Timeline.Update">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Vcs.Log.Refresh">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
+  <action id="hg4idea.QRefresh">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
+</keymap>
