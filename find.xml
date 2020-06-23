@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\rpg\classes\Enemy.py'" />
-    <option name="defaultScopeName" value="File '...\rpg\classes\Enemy.py'" />
-    <option name="SEARCH_SCOPE" value="File '...\rpg\classes\Enemy.py'" />
+    <option name="customScope" value="File '...\rpg\RPG lite.py'" />
+    <option name="defaultScopeName" value="File '...\rpg\RPG lite.py'" />
+    <option name="SEARCH_SCOPE" value="File '...\rpg\RPG lite.py'" />
   </component>
 </application>
