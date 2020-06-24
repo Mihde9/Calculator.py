@@ -10,7 +10,7 @@ jokeratth = 120
 while supermanhp > 10:
   damage = random.randrange(jokerattl, jokeratth)
   supermanhp = supermanhp - damage
-  
+
   if supermanhp <= 10:
     supermanhp = 10
 
